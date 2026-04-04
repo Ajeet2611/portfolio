@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "certificates": "Certificates",
+    "contact": "Contact",
+    "admin": "Admin"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Ajeet Prasad",
+    "roles": ["Aspiring Software Developer", "AI & ML Enthusiast", "Flutter App Developer", "Problem Solver", "Freelancer"],
+    "description": "BCA Student passionate about software development and AI/ML — building impactful real-world applications.",
+    "cta_primary": "View My Work",
+    "cta_secondary": "Download Resume",
+    "cta_contact": "Let's Connect"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Know who I am",
+    "description_1": "I am Ajeet Prasad, a BCA student passionate about software development and AI/ML. I have strong skills in C, C++, Python, and I am currently building real-world applications using Flutter and Firebase.",
+    "description_2": "My goal is to become a successful software developer and create impactful applications that improve people's lives. I love solving complex problems and turning ideas into reality through code.",
+    "education_title": "Education",
+    "degree": "Bachelor of Computer Applications (BCA)",
+    "university": "Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalay, Wardha",
+    "year": "2023 – 2026",
+    "goal_title": "Career Goal",
+    "goal": "To become a skilled full-stack developer specializing in AI/ML and mobile app development, creating solutions that make a real difference in people's everyday lives."
+  },
+  "skills": {
+    "title": "My Skills",
+    "subtitle": "Technologies I work with"
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Things I've built",
+    "view_github": "GitHub",
+    "view_demo": "Live Demo",
+    "view_ppt": "View PPT",
+    "tech_stack": "Tech Stack",
+    "no_projects": "Projects coming soon!"
+  },
+  "certificates": {
+    "title": "Certificates",
+    "subtitle": "My achievements & certifications",
+    "no_certs": "Certificates coming soon!"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's work together",
+    "name_label": "Your Name",
+    "email_label": "Your Email",
+    "message_label": "Your Message",
+    "send_btn": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully! 🎉",
+    "error": "Failed to send. Please try again.",
+    "email_info": "ajeetprasad2003@gmail.com",
+    "location": "Wardha, Maharashtra, India"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "made_with": "Made with ❤️ by Ajeet Prasad"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "login_title": "Admin Login",
+    "email": "Email",
+    "password": "Password",
+    "login_btn": "Login",
+    "logout_btn": "Logout",
+    "skills_tab": "Skills",
+    "projects_tab": "Projects",
+    "certificates_tab": "Certificates",
+    "add_skill": "Add Skill",
+    "add_project": "Add Project",
+    "add_certificate": "Add Certificate",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "uploading": "Uploading..."
+  }
+}

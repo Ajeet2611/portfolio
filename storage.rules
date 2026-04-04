@@ -1,0 +1,17 @@
+// storage.rules
+// Deploy with: firebase deploy --only storage
+
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    // Allow public READ for all files (portfolio images, etc.)
+    // Allow WRITE only for authenticated users (admin)
+
+    match /{allPaths=**} {
+      allow read:  if true;
+      allow write: if request.auth != null
+                   && request.resource.size < 20 * 1024 * 1024; // 20MB max
+    }
+  }
+}
